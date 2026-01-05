@@ -1,17 +1,18 @@
-## Hi there 👋
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=REOXS404;Logic+%2F+Science+%2F+Code;Pushing+The+Boulder;Blender+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=REOXS404;Logic+%2F+Science+%2F+Code;Alhi+Dayat+Putra;Blender+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <a href="mailto:EMAIL_LU_DISINI">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/alhi-dayat-putra-73b006243/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-   <a href="LINK_LINKEDIN_ATAU_IG">
-    <img src="https://img.shields.io/badge/Socials-Connect-333333?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/alhi.putra/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://lynk.id/alhiputra?utm_source=ig&utm_medium=social&utm_content=link_in_bio">
+    <img src="https://img.shields.io/badge/Lynk.id-Bio_Link-black?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 </div>
 
