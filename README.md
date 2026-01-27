@@ -46,14 +46,7 @@ Gua bergerak berlandaskan **logika & sains**. Skeptis adalah default mode gua un
 </tr>
 </table>
 
-### 🧊 Visual Works
-*Sebuah manifestasi visual dari logika ruang.*
 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9ibHBleHhzbm9ibHBleHhzbm9ibHBleHhzbm9ibHBleHhzbm9ibHBleHhw/3o7bu3XilJ5BOiSGic/giphy.gif" width="100%" />
-  <br/>
-  
-</div>
 
 <hr/>
 
