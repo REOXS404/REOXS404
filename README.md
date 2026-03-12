@@ -23,9 +23,9 @@
 <td width="50%" valign="top">
 
 ### 🧠 About Me
-> *"One must imagine Sisyphus happy."*
+> 
 
-Gua bergerak berlandaskan **logika & sains**. Skeptis adalah default mode gua untuk membedah masalah sampai ke akarnya.
+bergerak berlandaskan **logika & sains**.
 
 - 🔭 **Current Focus:** Menguasai 3D Modelling (Blender) & Python.
 - 🎓 **Status:** Student @ Unpak & Freelance "Ghostwriter" (Legal Context).
